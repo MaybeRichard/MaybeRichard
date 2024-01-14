@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Richard
-- 👀 I’m interested in OCT artifacts correction
-- 🌱 I’m currently learning deep learning method
-- 💞️ I’m looking to collaborate on OCT Artifacts 
+- 👀 I’m interested in image registration and distortion rectification
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on medical image registration and distortion rectification
 - 📫 How to reach me lisicheng168@gmail.com
 
 <!---
